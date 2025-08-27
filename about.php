@@ -7,9 +7,9 @@
 <section class="relative bg-gradient-to-r from-blue-900 via-blue-800 to-blue-700 text-white py-24 px-6 text-center">
   <div class="container mx-auto max-w-4xl" data-aos="fade-up">
     <h1 class="text-4xl md:text-5xl font-bold mb-4 text-yellow-300">About March Tech Solutions</h1>
-    <p class="text-lg max-w-3xl mx-auto opacity-90 leading-relaxed">
+    <p class="text-lg max-w-3xl mx-auto opacity-90 leading-relaxed text-justify">
       We provide outsourced back-office support for SME and medium-sized freight forwarding companies across the Middle East, Europe, and USA.  
-      With over 45 years of combined industry expertise, we bring efficiency, accuracy, and cost savings — so you can move at ease.
+      With over 25 years of combined industry expertise, we bring efficiency, accuracy, and cost savings — so you can move at ease.
     </p>
   </div>
 </section>
@@ -24,11 +24,11 @@
     </div>
     <div data-aos="fade-left" class="space-y-6">
       <h2 class="text-3xl font-bold text-gray-800 mb-4">Our Story</h2>
-      <p class="text-gray-700 leading-relaxed">
+      <p class="text-gray-700 leading-relaxed text-justify">
         March Tech Solutions was founded with the goal of simplifying freight forwarding operations through expert outsourced back-office support. 
         Serving SMEs and medium-sized freight forwarders in the Middle East, Europe, and the USA, we understand the operational challenges and provide cost-effective solutions.
       </p>
-      <p class="text-gray-700 leading-relaxed">
+      <p class="text-gray-700 leading-relaxed text-justify">
         Over decades, we have perfected our processes for documentation, ERP job processing, invoicing, shipment tracking, and reporting to boost efficiency and accuracy.
       </p>
     </div>

@@ -10,8 +10,6 @@
         <p class="text-lg text-white max-w-3xl mb-8">
             You focus on growing your business. We handle the paperwork, processing, and back-office operations that keep your shipments moving.
         </p>
-         
-        <p class="mt-10 italic text-blue-600 max-w-md">“I’m Captain March — your freight forwarding co-pilot!”</p>
     </div>
 </section>
 
@@ -21,9 +19,9 @@
         <img src="assets/team.jpg" alt="March Tech Solutions Team"  class="rounded-lg shadow-lg w-full object-cover" />
         <div>
             <h2 class="text-3xl font-bold text-blue-700 mb-4">About March Tech Solutions</h2>
-            <p class="text-gray-700 mb-4 leading-relaxed">
+            <p class="text-gray-700 mb-4 leading-relaxed text-justify">
                 At March Tech Solutions, we provide outsourced back-office support tailored for SME and medium-sized freight forwarding companies across the Middle East, Europe, and USA.  
-                Our expert team brings over 45 years of combined industry experience to help you focus on growing your core business, while we manage time-consuming tasks like documentation, ERP job processing, invoicing, shipment tracking, and reporting.
+                Our expert team brings over 25 years of combined industry experience to help you focus on growing your core business, while we manage time-consuming tasks like documentation, ERP job processing, invoicing, shipment tracking, and reporting.
             </p>
             <a href="about.php" class="text-blue-600 hover:underline font-semibold">Learn More →</a>
         </div>

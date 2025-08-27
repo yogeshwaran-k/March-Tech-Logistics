@@ -86,12 +86,13 @@ $services = [
 <section class="bg-blue-50 py-16">
   <div class="container mx-auto px-6 max-w-5xl text-center">
     <h2 class="text-2xl md:text-3xl font-bold mb-10 text-blue-900">Why Choose March Tech Solutions?</h2>
-    <div class="grid md:grid-cols-2 gap-10 text-left text-gray-700 text-base leading-relaxed items-center">
-      <ul class="list-disc list-inside space-y-4 text-blue-900 font-medium bg-white rounded-xl shadow p-8 border border-blue-100">
-        <li><strong>Industry Expertise</strong> – Over 45 years of combined experience in operations, HR, and administration.</li>
+    <div class="grid md:grid-cols-2 gap-10 text-left text-gray-700 text-base leading-relaxed items-center text-justify">
+      <ul class="list-disc list-inside space-y-4 text-blue-900 font-medium bg-white rounded-xl shadow p-8 border border-blue-100  text-justify  ">
+        <li><strong>Industry Expertise</strong> – Over 25 years of combined experience in operations, HR, and administration.</li>
         <li><strong>Global Understanding</strong> – We understand forwarders in multiple markets.</li>
         <li><strong>Cost Efficiency</strong> – Reduce overhead without losing quality.</li>
-        <li><strong>Confidential & Reliable</strong> – Data handled with utmost security.</li>
+        <li><strong>Confidential</strong> – Data handled with utmost security.</li>
+        <li><strong>Relaible</strong> – Data handled with utmost security.</li>
       </ul>
       <img src="assets/services.jpg" alt="Team Collaboration" class="rounded-2xl shadow-lg object-cover w-full border-4 border-blue-100 hover:scale-105 transition-transform duration-300" style="display:block;" />
     </div>

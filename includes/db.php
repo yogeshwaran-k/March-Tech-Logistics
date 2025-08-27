@@ -1,12 +1,10 @@
 <?php
-require_once __DIR__ . "/../../db_config.php";
+$host = "localhost";
+$user = "root";
+$pass = "";
+$dbname = "logistics_db";
 
-$conn = new mysqli(
-    $DB_CONFIG["host"],
-    $DB_CONFIG["user"],
-    $DB_CONFIG["pass"],
-    $DB_CONFIG["dbname"]
-);
+$conn = new mysqli($host, $user, $pass, $dbname);
 
 if ($conn->connect_error) {
     die("Database connection failed: " . $conn->connect_error);

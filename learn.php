@@ -51,7 +51,7 @@
 </div>
 
 <!-- Educational Content Grid -->
-<div class="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-7xl mx-auto" data-aos="fade-up" data-aos-delay="300">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-7xl mx-auto text-justify" data-aos="fade-up" data-aos-delay="300">
 
     <!-- Why Incoterms -->
     <article class="bg-blue-50 rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
@@ -89,7 +89,7 @@
             Why Partner With March Tech Solutions?
         </h3>
         <p class="text-gray-700 leading-relaxed text-base mb-4">
-            Leverage 45+ years of combined industry expertise delivering cost-efficient, confidential, and reliable
+            Leverage 25+ years of combined industry expertise delivering cost-efficient, confidential, and reliable
             freight forwarding back-office support across global markets.
         </p>
         <p class="italic text-blue-700 font-semibold">
