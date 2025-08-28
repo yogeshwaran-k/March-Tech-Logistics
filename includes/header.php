@@ -36,7 +36,7 @@
             class="h-12 w-12 rounded-full shadow-md hover:scale-105 transition-transform duration-200">
         </a>
         <div class="flex flex-col leading-tight">
-          <span class="text-lg font-extrabold text-blue-700">MARCH TECH</span>
+          <span class="text-lg font-extrabold text-blue-800">MARCH TECH</span>
           <span class="text-xs text-gray-600 tracking-wide">Marine Air Road Cargo Handlers</span>
         </div>
       </div>

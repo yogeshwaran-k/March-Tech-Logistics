@@ -107,7 +107,6 @@
       Meet Our Leadership
     </h2>
 
-    <!-- Leader Cards in Hierarchy Order -->
     <div class="flex flex-wrap justify-center gap-10">
       
       <!-- CEO (Highest) -->
@@ -117,8 +116,12 @@
         <img src="assets/admins/kannan.jpg" 
              alt="Kannan Chandran" 
              class="mx-auto rounded-full mb-6 object-cover w-36 h-36 ring-4 ring-blue-100" />
-        <h3 class="text-2xl font-bold text-blue-900 mb-2">Kannan Chandran</h3>
-        <p class="text-gray-600 font-medium">CEO & Founder</p>
+        <h3 class="text-2xl font-bold text-blue-900 mb-1">Kannan Chandran</h3>
+        <p class="text-gray-600 font-medium mb-2">CEO & Founder</p>
+        <p class="text-gray-500 text-sm leading-relaxed">
+          Visionary entrepreneur with extensive experience in logistics and business leadership,
+          driving innovation and global growth.
+        </p>
       </div>
 
       <!-- HR & Director -->
@@ -128,8 +131,12 @@
         <img src="assets/admins/lucky.jpg" 
              alt="Lucky Krishna" 
              class="mx-auto rounded-full mb-6 object-cover w-36 h-36 ring-4 ring-purple-100" />
-        <h3 class="text-2xl font-bold text-blue-900 mb-2">Lucky Krishna R</h3>
-        <p class="text-gray-600 font-medium">HR & Director</p>
+        <h3 class="text-2xl font-bold text-blue-900 mb-1">Lucky Krishna R</h3>
+        <p class="text-gray-600 font-medium mb-2">HR & Director</p>
+        <p class="text-gray-500 text-sm leading-relaxed">
+          10+ years of expertise in HR and administration, building strong teams, 
+          fostering employee engagement, and streamlining organizational processes.
+        </p>
       </div>
 
       <!-- Senior Operations Expert -->
@@ -139,8 +146,12 @@
         <img src="assets/admins/rojo.jpg" 
              alt="Rojo Johnson" 
              class="mx-auto rounded-full mb-6 object-cover w-36 h-36 ring-4 ring-green-100" />
-        <h3 class="text-2xl font-bold text-blue-900 mb-2">Rojo C Johnson</h3>
-        <p class="text-gray-600 font-medium">15+ years in freight forwarding<br>(Middle East & Africa)</p>
+        <h3 class="text-2xl font-bold text-blue-900 mb-1">Rojo C Johnson</h3>
+        <p class="text-gray-600 font-medium mb-2">Director of Operations</p>
+        <p class="text-gray-500 text-sm leading-relaxed">
+          15+ years in freight forwarding operations across the Middle East & Africa,
+          specializing in international trade and supply chain efficiency.
+        </p>
       </div>
 
       <!-- Operations Manager (Lowest) -->
@@ -150,13 +161,18 @@
         <img src="assets/admins/james.jpg" 
              alt="James Jose" 
              class="mx-auto rounded-full mb-6 object-cover w-36 h-36 ring-4 ring-orange-100" />
-        <h3 class="text-2xl font-bold text-blue-900 mb-2">James Jose</h3>
-        <p class="text-gray-600 font-medium">Operations Manager</p>
+        <h3 class="text-2xl font-bold text-blue-900 mb-1">James Jose</h3>
+        <p class="text-gray-600 font-medium mb-2">Operations Manager</p>
+        <p class="text-gray-500 text-sm leading-relaxed">
+          20+ years of proven expertise in freight forwarding, ensuring smooth logistics 
+          operations and client satisfaction worldwide.
+        </p>
       </div>
 
     </div>
   </div>
 </section>
+
 
 
 <!-- Call to Action -->

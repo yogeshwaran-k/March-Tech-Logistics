@@ -73,10 +73,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 Login
             </button>
         </form>
-
-        <p class="text-center text-gray-500 text-sm mt-4">
-            <a href="admin-register.php" class="text-blue-600 hover:underline">New admin? Register here</a>
-        </p>
     </div>
 
     <?php if (!empty($message)): ?>
